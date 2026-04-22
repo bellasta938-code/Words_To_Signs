@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+numpy
+opencv-python-headless
+Pillow
+googletrans==4.0.0-rc1
