@@ -5,3 +5,4 @@ opencv-python-headless
 Pillow
 googletrans==4.0.0-rc1
 httpx==0.13.3
+python-3.10
